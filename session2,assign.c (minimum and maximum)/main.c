@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// mohamed hamdy hassan
+
+
 int main()
 {
   int x,y,z;
